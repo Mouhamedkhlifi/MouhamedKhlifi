@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khlifi</h1>
 <h3 align="center">A Data science Engineering student @ Ecole Polytechnique de Tunisie</h3>
-<img align="right" alt="Coding" width="400" src="2-Forum-Host.JPG">
+<img align="right" alt="Coding" width="400" src="Forum-Host.JPG">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouhamedkhlifi&label=Profile%20views&color=0e75b6&style=flat" alt="mouhamedkhlifi" /> </p>
 

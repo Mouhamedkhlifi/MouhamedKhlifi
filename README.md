@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed KHLIFI</h1>
+<h1 align="center">Hi 👋, I'm Mohamed KHELIFI</h1>
 <h3 align="center">A Data science Engineering student @ Ecole Polytechnique de Tunisie</h3>
 <img align="right" alt="Coding" width="320" src=Forum-Host.JPG>
 
